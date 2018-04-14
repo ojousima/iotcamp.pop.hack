@@ -1,0 +1,9 @@
+[submodule "Monitoring-Tags"]
+	path = Monitoring-Tags
+	url = https://github.com/TAC911/Monitoring-Tags.git
+[submodule "ruuvi.firmware.c"]
+	path = ruuvi.firmware.c
+	url = https://github.com/ruuvi/ruuvi.firmware.c.git
+[submodule "iotcamp.app.hack"]
+	path = iotcamp.app.hack
+	url = https://github.com/ojousima/iotcamp.app.hack.git
